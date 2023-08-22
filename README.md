@@ -14,7 +14,7 @@
   ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
   ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
- ## *Most Used Languages*
+ ## *Github Stats*
 
   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucasrss19&bg_color=000&border_color=36db1d&title_color=36db1d&text_color=FFF)
 

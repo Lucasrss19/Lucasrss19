@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36db1d&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Santos;Be+Welcome!;Olá!+Meu+nome+é+Lucas+Santos;Seja+bem-vindo!)](https://git.io/typing-svg)
  ## *Description*
 
-  I'm rs old and I'm living in São Paulo-SP. I'm attending the 3rd semester of Systems Analysis and Development at UBC. I'm looking for experience in the area and make myself available to perform functions according to what is needed.
+  I'm rs old and I'm living in São Paulo-SP. I'm attending the 4rd semester of Systems Analysis and Development at UBC. I'm looking for experience in the area and make myself available to perform functions according to what is needed.
 
  ## *Contact me*
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/slucas.santos/)
